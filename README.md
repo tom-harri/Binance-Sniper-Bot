@@ -1,2 +1,2 @@
 # Binance-Sniper-Bot
-Bot sends price taking IOC orders when the orderbook is imbalanced.
+The Binance Sniper Bot is a lightweight tool designed to swiftly execute Immediate Or Cancel (IOC) orders on Binance. It operates by strategically placing orders at the best ask price when the Volume Weighted Average Price (VWAP) mid price surpasses the mid price, identifying potential imbalances in the order book to capitalize on trading opportunities efficiently. With minimal configuration and real-time monitoring, the bot aims to assist traders in maximizing their trading strategies on the Binance exchange.
